@@ -33,7 +33,6 @@
 <style>
   main {
     max-width: 960px;
-    margin: 2rem 5rem;
-    padding: 1rem;
+    margin: 3rem 0;
   }
 </style>
