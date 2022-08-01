@@ -87,4 +87,10 @@
         font-size: 14px;
         padding-bottom: 1rem;
     }
+
+    @media (max-width: 450px) {
+        input {
+            min-width: 300px;
+        }
+    }
 </style>
