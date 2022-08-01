@@ -15,11 +15,4 @@
         margin: 0 1rem;
         gap: 1rem;
     }
-
-    @media (max-width: 500px) {
-        .poll-card {
-            width: 90vw;
-            min-width: 300px;
-        }
-    }
 </style>
