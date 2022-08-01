@@ -69,7 +69,6 @@
     form {
         display: flex;
         flex-direction: column;
-        margin: 0 0.5rem;
     }
 
     input {
@@ -89,8 +88,10 @@
     }
 
     @media (max-width: 450px) {
-        input {
+        form {
+            max-width: 445px;
             min-width: 300px;
+            margin: 0 1rem;
         }
     }
 </style>
