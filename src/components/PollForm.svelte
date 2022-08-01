@@ -89,9 +89,8 @@
 
     @media (max-width: 450px) {
         form {
-            max-width: 445px;
+            width: 90vw;
             min-width: 300px;
-            margin: 0 1rem;
         }
     }
 </style>
