@@ -69,11 +69,12 @@
     form {
         display: flex;
         flex-direction: column;
+        width: 400px;
     }
 
     input {
         display: block;
-        width: 400px;
+        width: 100%;
         padding: 0.6rem;
         border: 1px solid #cdcdcd;
         border-radius: 5px;
